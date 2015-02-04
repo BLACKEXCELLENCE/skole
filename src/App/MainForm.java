@@ -8,7 +8,7 @@ import java.io.IOException;
 import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 import javax.swing.ListModel;
-
+//fuck dig mand
 public class MainForm extends javax.swing.JFrame {
 
     String filePath = "/Users/MartinBJ/Dropbox/Datamatiker/NetBeans/TextSorting/brit-a-z-unordered.txt";
